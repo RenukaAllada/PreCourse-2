@@ -6,7 +6,8 @@ class IterativeQuickSort {
   
     /* This function is same in both iterative and 
        recursive*/
-    int partition(int arr[], int l, int h) 
+    //int
+    void partition(int arr[], int l, int h)
     { 
         //Compare elements and swap.
     } 
